@@ -1,0 +1,11 @@
+let arr = [2, 44, 55]
+// let tos = arr.toString()
+console.log(arr)
+// console.log(tos)
+// let c = arr.join('_')
+// console.log(c)
+// arr.pop()
+// arr.push(3)
+// arr.shift()
+arr.unshift(5)
+console.log(arr)
